@@ -13,14 +13,14 @@ Integrantes : <br />
 
 projeto-comanda (PROJETO)<br>
    * src/main/java (ARQUIVOS JAVA)<br>
-                com.integrador.projeto_comanda<br>
-                   domain           (CAMADA DE DOMINIO/MODEL)<br>
-                   repositories     (CAMADA DE DAO/INTERFACES)<br>
-                   resources        (CAMADA DE CONTROLE)<br>
-                   services         (CAMADA DE LOGICA/REGRAS)<br>
+              + com.integrador.projeto_comanda<br>
+                  - domain           (CAMADA DE DOMINIO/MODEL)<br>
+                  - repositories     (CAMADA DE DAO/INTERFACES)<br>
+                  - resources        (CAMADA DE CONTROLE)<br>
+                  - services         (CAMADA DE LOGICA/REGRAS)<br>
                       exception     (TRATAR EXCEÇÕES/MENSAGENS DE ERRO)<br>
    * src/test/java<br>
-                br.com.integrador.projeto_comanda<br>
+               + br.com.integrador.projeto_comanda<br>
                    AppTest.java     (TESTES AUTOMATIZADOS JUNIT)<br>
    * src/main/resources<br>
                      db<br>
