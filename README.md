@@ -5,7 +5,7 @@
 ::: Projeto utilizando Spring Boot :::
 
 Integrantes :
- ... Eduardo
+ ... Eduardo<br>
  ... Haniery
  ... Neirivon
  ... Elyvaldson
